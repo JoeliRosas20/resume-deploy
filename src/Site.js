@@ -11,7 +11,9 @@ import NavBar from './components/NavBar'
 function Site() {
     return (
         <Router>
+        
             <NavBar/>
+            <div className="pages">
             <Switch>
                 <Route exact path="/" component = {HomePage}/>
                 <Route exact path="/projects" component = {MyProjects}/>
@@ -20,6 +22,7 @@ function Site() {
                 <Route exact path="/SpaceGame" component = {SpaceGame}/>
                 <Route exact path="/ClothesApp" component = {ClothesApp}/>
             </Switch>
+            </div>
         </Router>
     )
 }

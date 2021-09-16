@@ -9,14 +9,16 @@ function MyProjects() {
     return (
         <div>
             <h1>Welcome to Projects</h1>
-            <Link to="/SpaceGame">
+            <div className="proj-bar">
+            <Link to="/SpaceGame" className="proj-link">
                 Space Game
             </Link>
             <br/>
-            <Link to="/ClothesApp">
+            <Link to="/ClothesApp" className="proj-link">
                 Clothes App
             </Link>
             <br/>
+            </div>
         </div>
     )
 }
