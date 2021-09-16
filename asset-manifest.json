@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume-deploy/static/css/main.2627e35e.chunk.css",
+    "main.js": "/resume-deploy/static/js/main.7e578747.chunk.js",
+    "main.js.map": "/resume-deploy/static/js/main.7e578747.chunk.js.map",
+    "runtime-main.js": "/resume-deploy/static/js/runtime-main.3416bc1a.js",
+    "runtime-main.js.map": "/resume-deploy/static/js/runtime-main.3416bc1a.js.map",
+    "static/js/2.87ff1440.chunk.js": "/resume-deploy/static/js/2.87ff1440.chunk.js",
+    "static/js/2.87ff1440.chunk.js.map": "/resume-deploy/static/js/2.87ff1440.chunk.js.map",
+    "static/js/3.9efe4b40.chunk.js": "/resume-deploy/static/js/3.9efe4b40.chunk.js",
+    "static/js/3.9efe4b40.chunk.js.map": "/resume-deploy/static/js/3.9efe4b40.chunk.js.map",
+    "index.html": "/resume-deploy/index.html",
+    "static/css/main.2627e35e.chunk.css.map": "/resume-deploy/static/css/main.2627e35e.chunk.css.map",
+    "static/js/2.87ff1440.chunk.js.LICENSE.txt": "/resume-deploy/static/js/2.87ff1440.chunk.js.LICENSE.txt",
+    "static/media/MyPortrait.240fa5e4.jpg": "/resume-deploy/static/media/MyPortrait.240fa5e4.jpg",
+    "static/media/MyResume.ec7dc56e.pdf": "/resume-deploy/static/media/MyResume.ec7dc56e.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3416bc1a.js",
+    "static/js/2.87ff1440.chunk.js",
+    "static/css/main.2627e35e.chunk.css",
+    "static/js/main.7e578747.chunk.js"
+  ]
+}
